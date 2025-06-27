@@ -70,7 +70,7 @@ export const sortTasks = (tasks, sortBy = 'dueDate') => {
         return new Date(a.dueDate) - new Date(b.dueDate)
       })
 
-    case 'priority':
+case 'priority': {
       const priorityOrder = { high: 3, medium: 2, low: 1 }
       return sortedTasks.sort((a, b) => {
         if (a.completed !== b.completed) {
@@ -78,6 +78,7 @@ export const sortTasks = (tasks, sortBy = 'dueDate') => {
         }
         return priorityOrder[b.priority] - priorityOrder[a.priority]
       })
+    }
 
     case 'created':
       return sortedTasks.sort((a, b) => {
