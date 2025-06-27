@@ -23,16 +23,42 @@ export default {
         accent: {
           50: '#FFF2F2',
           100: '#FFE5E5',
-          500: '#FF6B6B',
-          600: '#FF5252',
+colors: {
+        primary: {
+          50: '#EFF6FF',
+          100: '#DBEAFE',
+          200: '#BFDBFE',
+          500: '#2563EB',
+          600: '#1D4ED8',
+        },
+        secondary: {
+          100: '#F1F5F9',
+          200: '#E2E8F0',
+          600: '#475569',
         },
         success: {
-          50: '#F1F8E9',
-          500: '#4CAF50',
+          50: '#F0FDF4',
+          200: '#BBF7D0',
+          500: '#22C55E',
+          600: '#16A34A',
         },
         warning: {
-          50: '#FFF8E1',
-          500: '#FF9800',
+          50: '#FFFBEB',
+          200: '#FED7AA',
+          600: '#D97706',
+        },
+        error: {
+          50: '#FEF2F2',
+          200: '#FECACA',
+          600: '#DC2626',
+        },
+        accent: {
+          100: '#FEF2F2',
+          200: '#FECACA',
+          600: '#DC2626',
+        },
+        surface: '#FFFFFF',
+      },
         },
         error: {
           50: '#FFEBEE',
