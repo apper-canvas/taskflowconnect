@@ -6,23 +6,6 @@ export default {
   ],
   theme: {
     extend: {
-      colors: {
-        primary: {
-          50: '#F3F1FF',
-          100: '#E8E4FF',
-          500: '#5B4CFF',
-          600: '#4A3DE6',
-          700: '#3B2FCC',
-        },
-        secondary: {
-          50: '#F5F3FF',
-          100: '#EDEAFF',
-          500: '#8B7FFF',
-          600: '#7A6FFF',
-        },
-        accent: {
-          50: '#FFF2F2',
-          100: '#FFE5E5',
 colors: {
         primary: {
           50: '#EFF6FF',
@@ -30,39 +13,42 @@ colors: {
           200: '#BFDBFE',
           500: '#2563EB',
           600: '#1D4ED8',
+          700: '#3B2FCC',
         },
         secondary: {
+          50: '#F5F3FF',
           100: '#F1F5F9',
           200: '#E2E8F0',
+          500: '#8B7FFF',
           600: '#475569',
         },
         success: {
           50: '#F0FDF4',
+          100: '#DCFCE7',
           200: '#BBF7D0',
           500: '#22C55E',
           600: '#16A34A',
         },
         warning: {
           50: '#FFFBEB',
+          100: '#FEF3C7',
           200: '#FED7AA',
+          500: '#F59E0B',
           600: '#D97706',
         },
         error: {
           50: '#FEF2F2',
+          100: '#FEE2E2',
           200: '#FECACA',
+          500: '#EF4444',
           600: '#DC2626',
         },
         accent: {
-          100: '#FEF2F2',
+          50: '#FFF2F2',
+          100: '#FFE5E5',
           200: '#FECACA',
+          500: '#F87171',
           600: '#DC2626',
-        },
-        surface: '#FFFFFF',
-      },
-        },
-        error: {
-          50: '#FFEBEE',
-          500: '#F44336',
         },
         surface: '#FFFFFF',
         background: '#F8F9FA',
