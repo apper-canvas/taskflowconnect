@@ -1,0 +1,112 @@
+[
+  {
+    "Id": 1,
+    "title": "Review quarterly marketing metrics",
+    "description": "Analyze Q3 performance data and identify growth opportunities for next quarter",
+    "priority": "high",
+    "category": "Work",
+    "dueDate": "2024-01-15T10:00:00.000Z",
+    "completed": false,
+    "createdAt": "2024-01-10T09:00:00.000Z",
+    "completedAt": null
+  },
+  {
+    "Id": 2,
+    "title": "Prepare presentation for client meeting",
+    "description": "Create slides for the new product demo and pricing proposal",
+    "priority": "high",
+    "category": "Work",
+    "dueDate": "2024-01-16T14:00:00.000Z",
+    "completed": false,
+    "createdAt": "2024-01-12T11:30:00.000Z",
+    "completedAt": null
+  },
+  {
+    "Id": 3,
+    "title": "Schedule annual health checkup",
+    "description": "Call doctor's office to book routine physical examination",
+    "priority": "medium",
+    "category": "Health",
+    "dueDate": "2024-01-20T00:00:00.000Z",
+    "completed": false,
+    "createdAt": "2024-01-08T16:45:00.000Z",
+    "completedAt": null
+  },
+  {
+    "Id": 4,
+    "title": "Update personal portfolio website",
+    "description": "Add recent projects and refresh the design with new case studies",
+    "priority": "low",
+    "category": "Personal",
+    "dueDate": "2024-01-25T00:00:00.000Z",
+    "completed": false,
+    "createdAt": "2024-01-09T20:15:00.000Z",
+    "completedAt": null
+  },
+  {
+    "Id": 5,
+    "title": "Buy groceries for the week",
+    "description": "Get fresh vegetables, protein, and pantry essentials",
+    "priority": "medium",
+    "category": "Home",
+    "dueDate": "2024-01-14T18:00:00.000Z",
+    "completed": true,
+    "createdAt": "2024-01-13T07:30:00.000Z",
+    "completedAt": "2024-01-13T17:45:00.000Z"
+  },
+  {
+    "Id": 6,
+    "title": "Research vacation destinations",
+    "description": "Look into Mediterranean cruise options for summer holiday",
+    "priority": "low",
+    "category": "Personal",
+    "dueDate": "2024-02-01T00:00:00.000Z",
+    "completed": false,
+    "createdAt": "2024-01-11T19:20:00.000Z",
+    "completedAt": null
+  },
+  {
+    "Id": 7,
+    "title": "Submit expense report",
+    "description": "Compile and submit December business expenses with receipts",
+    "priority": "high",
+    "category": "Work",
+    "dueDate": "2024-01-18T17:00:00.000Z",
+    "completed": false,
+    "createdAt": "2024-01-10T13:15:00.000Z",
+    "completedAt": null
+  },
+  {
+    "Id": 8,
+    "title": "Clean and organize home office",
+    "description": "Declutter desk, organize files, and set up new filing system",
+    "priority": "medium",
+    "category": "Home",
+    "dueDate": "2024-01-21T00:00:00.000Z",
+    "completed": false,
+    "createdAt": "2024-01-12T15:00:00.000Z",
+    "completedAt": null
+  },
+  {
+    "Id": 9,
+    "title": "Complete online course module",
+    "description": "Finish Module 3 of React Advanced Patterns course",
+    "priority": "medium",
+    "category": "Learning",
+    "dueDate": "2024-01-19T00:00:00.000Z",
+    "completed": false,
+    "createdAt": "2024-01-09T21:00:00.000Z",
+    "completedAt": null
+  },
+  {
+    "Id": 10,
+    "title": "Plan weekend hiking trip",
+    "description": "Research trails, check weather, and pack gear for Saturday hike",
+    "priority": "low",
+    "category": "Personal",
+    "dueDate": "2024-01-19T08:00:00.000Z",
+    "completed": true,
+    "createdAt": "2024-01-14T12:30:00.000Z",
+    "completedAt": "2024-01-14T20:15:00.000Z"
+  }
+]
